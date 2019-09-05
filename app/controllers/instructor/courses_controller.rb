@@ -25,3 +25,6 @@ class Instructor::CoursesController < ApplicationController
   end
 
 end
+
+
+
